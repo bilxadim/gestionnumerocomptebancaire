@@ -8,7 +8,7 @@ public class NumeroCompteBancaire {
 	
 	public NumeroCompteBancaire() {
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public NumeroCompteBancaire(long numEtablissement, long numGuichet, String numeroCompte, long cleRib) {
